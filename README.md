@@ -16,7 +16,7 @@ The project demonstrates how ServiceNow can be customized using:
 
 The main objective is to automate Change Request behavior and improve the user experience while creating and managing change requests.
 
----
+
 
 ## Objectives
 
